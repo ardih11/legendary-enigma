@@ -1,5 +1,6 @@
 import './App.css';
 
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
 function App() {
   return (
     <div className="App">
